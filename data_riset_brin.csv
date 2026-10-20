@@ -1,0 +1,721 @@
+tanggal,wilayah,jumlah_pohon_drone,indeks_permukiman_kumuh,status_anomali
+2026-01-01,Sumatera (Bengkulu),1218,64.17,Anomali Kritis
+2026-01-02,Sumatera (Bengkulu),1191,50.76,Normal
+2026-01-03,Sumatera (Bengkulu),1209,49.6,Normal
+2026-01-04,Sumatera (Bengkulu),1204,49.55,Normal
+2026-01-05,Sumatera (Bengkulu),1209,50.24,Normal
+2026-01-06,Sumatera (Bengkulu),1226,51.24,Normal
+2026-01-07,Sumatera (Bengkulu),1210,48.9,Normal
+2026-01-08,Sumatera (Bengkulu),1232,50.28,Normal
+2026-01-09,Sumatera (Bengkulu),1247,49.67,Normal
+2026-01-10,Sumatera (Bengkulu),1243,46.26,Normal
+2026-01-11,Sumatera (Bengkulu),1248,47.41,Normal
+2026-01-12,Sumatera (Bengkulu),1251,49.19,Normal
+2026-01-13,Sumatera (Bengkulu),1241,48.11,Normal
+2026-01-14,Sumatera (Bengkulu),1230,47.99,Normal
+2026-01-15,Sumatera (Bengkulu),1265,46.25,Normal
+2026-01-16,Sumatera (Bengkulu),1267,48.27,Normal
+2026-01-17,Sumatera (Bengkulu),1246,46.51,Normal
+2026-01-18,Sumatera (Bengkulu),1230,48.54,Normal
+2026-01-19,Sumatera (Bengkulu),1247,47.98,Normal
+2026-01-20,Sumatera (Bengkulu),1234,44.85,Normal
+2026-01-21,Sumatera (Bengkulu),1259,45.83,Normal
+2026-01-22,Sumatera (Bengkulu),1262,46.43,Normal
+2026-01-23,Sumatera (Bengkulu),1223,45.83,Normal
+2026-01-24,Sumatera (Bengkulu),1220,42.25,Normal
+2026-01-25,Sumatera (Bengkulu),1241,45.96,Normal
+2026-01-26,Sumatera (Bengkulu),1216,44.78,Normal
+2026-01-27,Sumatera (Bengkulu),1218,42.68,Normal
+2026-01-28,Sumatera (Bengkulu),1218,41.49,Normal
+2026-01-29,Sumatera (Bengkulu),1219,41.52,Normal
+2026-01-30,Sumatera (Bengkulu),1219,41.91,Normal
+2026-01-31,Sumatera (Bengkulu),1201,55.11,Anomali Kritis
+2026-02-01,Sumatera (Bengkulu),1189,40.57,Normal
+2026-02-02,Sumatera (Bengkulu),1200,43.73,Normal
+2026-02-03,Sumatera (Bengkulu),1176,43.07,Normal
+2026-02-04,Sumatera (Bengkulu),1205,42.79,Normal
+2026-02-05,Sumatera (Bengkulu),1170,41.91,Normal
+2026-02-06,Sumatera (Bengkulu),1164,39.97,Normal
+2026-02-07,Sumatera (Bengkulu),1175,40.93,Normal
+2026-02-08,Sumatera (Bengkulu),1172,42.32,Normal
+2026-02-09,Sumatera (Bengkulu),1166,43.31,Normal
+2026-02-10,Sumatera (Bengkulu),1168,37.49,Normal
+2026-02-11,Sumatera (Bengkulu),1152,42.02,Normal
+2026-02-12,Sumatera (Bengkulu),1138,40.83,Normal
+2026-02-13,Sumatera (Bengkulu),1147,42.49,Normal
+2026-02-14,Sumatera (Bengkulu),1170,39.88,Normal
+2026-02-15,Sumatera (Bengkulu),1162,38.6,Normal
+2026-02-16,Sumatera (Bengkulu),1168,43.96,Normal
+2026-02-17,Sumatera (Bengkulu),1133,38.46,Normal
+2026-02-18,Sumatera (Bengkulu),1159,40.46,Normal
+2026-02-19,Sumatera (Bengkulu),1144,38.5,Normal
+2026-02-20,Sumatera (Bengkulu),1160,38.88,Normal
+2026-02-21,Sumatera (Bengkulu),1134,39.41,Normal
+2026-02-22,Sumatera (Bengkulu),1140,38.04,Normal
+2026-02-23,Sumatera (Bengkulu),1157,40.04,Normal
+2026-02-24,Sumatera (Bengkulu),1170,40.0,Normal
+2026-02-25,Sumatera (Bengkulu),1171,41.8,Normal
+2026-02-26,Sumatera (Bengkulu),1172,39.8,Normal
+2026-02-27,Sumatera (Bengkulu),1178,40.55,Normal
+2026-02-28,Sumatera (Bengkulu),1168,37.27,Normal
+2026-03-01,Sumatera (Bengkulu),1197,42.01,Normal
+2026-03-02,Sumatera (Bengkulu),1198,56.22,Anomali Kritis
+2026-03-03,Sumatera (Bengkulu),1184,40.79,Normal
+2026-03-04,Sumatera (Bengkulu),1206,45.09,Normal
+2026-03-05,Sumatera (Bengkulu),1191,42.81,Normal
+2026-03-06,Sumatera (Bengkulu),1223,39.97,Normal
+2026-03-07,Sumatera (Bengkulu),1206,43.11,Normal
+2026-03-08,Sumatera (Bengkulu),1196,42.47,Normal
+2026-03-09,Sumatera (Bengkulu),1236,43.79,Normal
+2026-03-10,Sumatera (Bengkulu),1235,43.82,Normal
+2026-03-11,Sumatera (Bengkulu),1209,44.89,Normal
+2026-03-12,Sumatera (Bengkulu),1237,46.49,Normal
+2026-03-13,Sumatera (Bengkulu),1232,46.23,Normal
+2026-03-14,Sumatera (Bengkulu),1256,47.54,Normal
+2026-03-15,Sumatera (Bengkulu),1227,43.67,Normal
+2026-03-16,Sumatera (Bengkulu),1245,44.77,Normal
+2026-03-17,Sumatera (Bengkulu),1258,46.53,Normal
+2026-03-18,Sumatera (Bengkulu),1236,45.25,Normal
+2026-03-19,Sumatera (Bengkulu),1257,46.19,Normal
+2026-03-20,Sumatera (Bengkulu),1231,49.9,Normal
+2026-03-21,Sumatera (Bengkulu),1247,48.94,Normal
+2026-03-22,Sumatera (Bengkulu),1254,45.58,Normal
+2026-03-23,Sumatera (Bengkulu),1259,48.28,Normal
+2026-03-24,Sumatera (Bengkulu),1233,49.23,Normal
+2026-03-25,Sumatera (Bengkulu),1263,47.29,Normal
+2026-03-26,Sumatera (Bengkulu),1239,49.6,Normal
+2026-03-27,Sumatera (Bengkulu),1243,50.47,Normal
+2026-03-28,Sumatera (Bengkulu),1238,52.07,Normal
+2026-03-29,Sumatera (Bengkulu),1219,50.02,Normal
+2026-03-30,Sumatera (Bengkulu),1224,49.91,Normal
+2026-03-31,Sumatera (Bengkulu),1206,51.66,Normal
+2026-04-01,Sumatera (Bengkulu),1200,65.19,Anomali Kritis
+2026-04-02,Sumatera (Bengkulu),1203,51.06,Normal
+2026-04-03,Sumatera (Bengkulu),1225,51.17,Normal
+2026-04-04,Sumatera (Bengkulu),1205,50.69,Normal
+2026-04-05,Sumatera (Bengkulu),1204,51.38,Normal
+2026-04-06,Sumatera (Bengkulu),1186,49.65,Normal
+2026-04-07,Sumatera (Bengkulu),1178,50.95,Normal
+2026-04-08,Sumatera (Bengkulu),1200,51.57,Normal
+2026-04-09,Sumatera (Bengkulu),1185,50.11,Normal
+2026-04-10,Sumatera (Bengkulu),1191,47.93,Normal
+2026-04-11,Sumatera (Bengkulu),1167,49.63,Normal
+2026-04-12,Sumatera (Bengkulu),1167,48.93,Normal
+2026-04-13,Sumatera (Bengkulu),1152,49.98,Normal
+2026-04-14,Sumatera (Bengkulu),1173,50.58,Normal
+2026-04-15,Sumatera (Bengkulu),1149,52.39,Normal
+2026-04-16,Sumatera (Bengkulu),1157,48.99,Normal
+2026-04-17,Sumatera (Bengkulu),1162,48.43,Normal
+2026-04-18,Sumatera (Bengkulu),1139,48.81,Normal
+2026-04-19,Sumatera (Bengkulu),1156,45.14,Normal
+2026-04-20,Sumatera (Bengkulu),1162,46.5,Normal
+2026-04-21,Sumatera (Bengkulu),1157,48.76,Normal
+2026-04-22,Sumatera (Bengkulu),1148,47.78,Normal
+2026-04-23,Sumatera (Bengkulu),1134,46.95,Normal
+2026-04-24,Sumatera (Bengkulu),1148,46.37,Normal
+2026-04-25,Sumatera (Bengkulu),1161,43.58,Normal
+2026-04-26,Sumatera (Bengkulu),1141,45.57,Normal
+2026-04-27,Sumatera (Bengkulu),1172,46.51,Normal
+2026-04-28,Sumatera (Bengkulu),1171,42.35,Normal
+2026-04-29,Sumatera (Bengkulu),1179,43.51,Normal
+2026-04-30,Sumatera (Bengkulu),1181,43.71,Normal
+2026-05-01,Sumatera (Bengkulu),1155,59.59,Anomali Kritis
+2026-05-02,Sumatera (Bengkulu),1187,42.08,Normal
+2026-05-03,Sumatera (Bengkulu),1164,42.3,Normal
+2026-05-04,Sumatera (Bengkulu),1197,43.53,Normal
+2026-05-05,Sumatera (Bengkulu),1192,41.04,Normal
+2026-05-06,Sumatera (Bengkulu),1177,41.57,Normal
+2026-05-07,Sumatera (Bengkulu),1206,43.71,Normal
+2026-05-08,Sumatera (Bengkulu),1224,43.72,Normal
+2026-05-09,Sumatera (Bengkulu),1219,40.86,Normal
+2026-05-10,Sumatera (Bengkulu),1220,39.07,Normal
+2026-05-11,Sumatera (Bengkulu),1224,41.41,Normal
+2026-05-12,Sumatera (Bengkulu),1240,42.46,Normal
+2026-05-13,Sumatera (Bengkulu),1228,42.94,Normal
+2026-05-14,Sumatera (Bengkulu),1228,42.24,Normal
+2026-05-15,Sumatera (Bengkulu),1230,40.12,Normal
+2026-05-16,Sumatera (Bengkulu),1247,41.58,Normal
+2026-05-17,Sumatera (Bengkulu),1255,40.56,Normal
+2026-05-18,Sumatera (Bengkulu),1246,38.93,Normal
+2026-05-19,Sumatera (Bengkulu),1251,40.35,Normal
+2026-05-20,Sumatera (Bengkulu),1233,40.27,Normal
+2026-05-21,Sumatera (Bengkulu),1243,38.68,Normal
+2026-05-22,Sumatera (Bengkulu),1261,39.5,Normal
+2026-05-23,Sumatera (Bengkulu),1236,38.93,Normal
+2026-05-24,Sumatera (Bengkulu),1233,41.05,Normal
+2026-05-25,Sumatera (Bengkulu),1266,43.66,Normal
+2026-05-26,Sumatera (Bengkulu),1265,42.91,Normal
+2026-05-27,Sumatera (Bengkulu),1239,40.26,Normal
+2026-05-28,Sumatera (Bengkulu),1251,41.01,Normal
+2026-05-29,Sumatera (Bengkulu),1237,39.49,Normal
+2026-05-30,Sumatera (Bengkulu),1243,41.91,Normal
+2026-05-31,Sumatera (Bengkulu),1237,56.56,Anomali Kritis
+2026-06-01,Sumatera (Bengkulu),1208,42.29,Normal
+2026-06-02,Sumatera (Bengkulu),1204,38.88,Normal
+2026-06-03,Sumatera (Bengkulu),1223,40.91,Normal
+2026-06-04,Sumatera (Bengkulu),1234,41.95,Normal
+2026-06-05,Sumatera (Bengkulu),1228,42.79,Normal
+2026-06-06,Sumatera (Bengkulu),1189,40.2,Normal
+2026-06-07,Sumatera (Bengkulu),1191,45.24,Normal
+2026-06-08,Sumatera (Bengkulu),1200,44.67,Normal
+2026-06-09,Sumatera (Bengkulu),1198,42.01,Normal
+2026-06-10,Sumatera (Bengkulu),1178,44.43,Normal
+2026-06-11,Sumatera (Bengkulu),1195,44.6,Normal
+2026-06-12,Sumatera (Bengkulu),1188,47.2,Normal
+2026-06-13,Sumatera (Bengkulu),1161,43.61,Normal
+2026-06-14,Sumatera (Bengkulu),1152,44.2,Normal
+2026-06-15,Sumatera (Bengkulu),1153,45.81,Normal
+2026-06-16,Sumatera (Bengkulu),1159,47.1,Normal
+2026-06-17,Sumatera (Bengkulu),1142,45.7,Normal
+2026-06-18,Sumatera (Bengkulu),1138,46.87,Normal
+2026-06-19,Sumatera (Bengkulu),1134,46.56,Normal
+2026-06-20,Sumatera (Bengkulu),1158,47.63,Normal
+2026-06-21,Sumatera (Bengkulu),1153,47.16,Normal
+2026-06-22,Sumatera (Bengkulu),1141,49.65,Normal
+2026-06-23,Sumatera (Bengkulu),1162,45.7,Normal
+2026-06-24,Sumatera (Bengkulu),1166,49.55,Normal
+2026-06-25,Sumatera (Bengkulu),1170,48.78,Normal
+2026-06-26,Sumatera (Bengkulu),1141,47.36,Normal
+2026-06-27,Sumatera (Bengkulu),1145,47.3,Normal
+2026-06-28,Sumatera (Bengkulu),1166,48.2,Normal
+2026-06-29,Sumatera (Bengkulu),1173,48.86,Normal
+2026-01-01,Jawa Barat (Bandung),1502,69.69,Normal
+2026-01-02,Jawa Barat (Bandung),1509,69.25,Normal
+2026-01-03,Jawa Barat (Bandung),1498,69.02,Normal
+2026-01-04,Jawa Barat (Bandung),1504,69.37,Normal
+2026-01-05,Jawa Barat (Bandung),1527,69.69,Normal
+2026-01-06,Jawa Barat (Bandung),1538,68.97,Normal
+2026-01-07,Jawa Barat (Bandung),1517,72.12,Normal
+2026-01-08,Jawa Barat (Bandung),1546,66.65,Normal
+2026-01-09,Jawa Barat (Bandung),1549,66.62,Normal
+2026-01-10,Jawa Barat (Bandung),1557,67.3,Normal
+2026-01-11,Jawa Barat (Bandung),1553,69.75,Normal
+2026-01-12,Jawa Barat (Bandung),1560,68.41,Normal
+2026-01-13,Jawa Barat (Bandung),1537,70.81,Normal
+2026-01-14,Jawa Barat (Bandung),1552,67.58,Normal
+2026-01-15,Jawa Barat (Bandung),1563,69.93,Normal
+2026-01-16,Jawa Barat (Bandung),1550,67.73,Normal
+2026-01-17,Jawa Barat (Bandung),1541,67.06,Normal
+2026-01-18,Jawa Barat (Bandung),1540,68.4,Normal
+2026-01-19,Jawa Barat (Bandung),1546,66.41,Normal
+2026-01-20,Jawa Barat (Bandung),1540,65.58,Normal
+2026-01-21,Jawa Barat (Bandung),1555,66.32,Normal
+2026-01-22,Jawa Barat (Bandung),1538,66.74,Normal
+2026-01-23,Jawa Barat (Bandung),1524,64.01,Normal
+2026-01-24,Jawa Barat (Bandung),1537,63.37,Normal
+2026-01-25,Jawa Barat (Bandung),1548,67.57,Normal
+2026-01-26,Jawa Barat (Bandung),1520,65.13,Normal
+2026-01-27,Jawa Barat (Bandung),1513,65.11,Normal
+2026-01-28,Jawa Barat (Bandung),1538,65.9,Normal
+2026-01-29,Jawa Barat (Bandung),1502,61.38,Normal
+2026-01-30,Jawa Barat (Bandung),1499,62.65,Normal
+2026-01-31,Jawa Barat (Bandung),1513,62.21,Normal
+2026-02-01,Jawa Barat (Bandung),1518,62.97,Normal
+2026-02-02,Jawa Barat (Bandung),1514,64.06,Normal
+2026-02-03,Jawa Barat (Bandung),1478,61.34,Normal
+2026-02-04,Jawa Barat (Bandung),1491,59.18,Normal
+2026-02-05,Jawa Barat (Bandung),1492,63.15,Normal
+2026-02-06,Jawa Barat (Bandung),1475,61.78,Normal
+2026-02-07,Jawa Barat (Bandung),1479,63.31,Normal
+2026-02-08,Jawa Barat (Bandung),1458,60.44,Normal
+2026-02-09,Jawa Barat (Bandung),1472,60.71,Normal
+2026-02-10,Jawa Barat (Bandung),1461,62.46,Normal
+2026-02-11,Jawa Barat (Bandung),1451,61.57,Normal
+2026-02-12,Jawa Barat (Bandung),1463,60.13,Normal
+2026-02-13,Jawa Barat (Bandung),1458,60.79,Normal
+2026-02-14,Jawa Barat (Bandung),1464,60.44,Normal
+2026-02-15,Jawa Barat (Bandung),1467,60.07,Normal
+2026-02-16,Jawa Barat (Bandung),1465,60.72,Normal
+2026-02-17,Jawa Barat (Bandung),1447,60.08,Normal
+2026-02-18,Jawa Barat (Bandung),1443,58.66,Normal
+2026-02-19,Jawa Barat (Bandung),1452,62.33,Normal
+2026-02-20,Jawa Barat (Bandung),1442,59.93,Normal
+2026-02-21,Jawa Barat (Bandung),1460,61.63,Normal
+2026-02-22,Jawa Barat (Bandung),1442,60.96,Normal
+2026-02-23,Jawa Barat (Bandung),1445,58.82,Normal
+2026-02-24,Jawa Barat (Bandung),1468,57.65,Normal
+2026-02-25,Jawa Barat (Bandung),1463,61.22,Normal
+2026-02-26,Jawa Barat (Bandung),1460,59.5,Normal
+2026-02-27,Jawa Barat (Bandung),1486,61.78,Normal
+2026-02-28,Jawa Barat (Bandung),1461,59.28,Normal
+2026-03-01,Jawa Barat (Bandung),1490,64.23,Normal
+2026-03-02,Jawa Barat (Bandung),1470,61.62,Normal
+2026-03-03,Jawa Barat (Bandung),1470,61.57,Normal
+2026-03-04,Jawa Barat (Bandung),1492,59.69,Normal
+2026-03-05,Jawa Barat (Bandung),1501,64.58,Normal
+2026-03-06,Jawa Barat (Bandung),1511,61.8,Normal
+2026-03-07,Jawa Barat (Bandung),1524,63.31,Normal
+2026-03-08,Jawa Barat (Bandung),1495,63.98,Normal
+2026-03-09,Jawa Barat (Bandung),1504,66.65,Normal
+2026-03-10,Jawa Barat (Bandung),1541,64.36,Normal
+2026-03-11,Jawa Barat (Bandung),1544,65.65,Normal
+2026-03-12,Jawa Barat (Bandung),1521,64.1,Normal
+2026-03-13,Jawa Barat (Bandung),1529,66.04,Normal
+2026-03-14,Jawa Barat (Bandung),1527,63.38,Normal
+2026-03-15,Jawa Barat (Bandung),1561,66.57,Normal
+2026-03-16,Jawa Barat (Bandung),1555,66.09,Normal
+2026-03-17,Jawa Barat (Bandung),1528,65.78,Normal
+2026-03-18,Jawa Barat (Bandung),1539,65.89,Normal
+2026-03-19,Jawa Barat (Bandung),1551,70.85,Normal
+2026-03-20,Jawa Barat (Bandung),1543,68.23,Normal
+2026-03-21,Jawa Barat (Bandung),1539,69.45,Normal
+2026-03-22,Jawa Barat (Bandung),1567,69.5,Normal
+2026-03-23,Jawa Barat (Bandung),1557,65.54,Normal
+2026-03-24,Jawa Barat (Bandung),1541,69.75,Normal
+2026-03-25,Jawa Barat (Bandung),1562,68.45,Normal
+2026-03-26,Jawa Barat (Bandung),1554,68.15,Normal
+2026-03-27,Jawa Barat (Bandung),1535,71.08,Normal
+2026-03-28,Jawa Barat (Bandung),1520,68.97,Normal
+2026-03-29,Jawa Barat (Bandung),1529,71.56,Normal
+2026-03-30,Jawa Barat (Bandung),1518,69.76,Normal
+2026-03-31,Jawa Barat (Bandung),1506,68.98,Normal
+2026-04-01,Jawa Barat (Bandung),1512,70.36,Normal
+2026-04-02,Jawa Barat (Bandung),1505,67.83,Normal
+2026-04-03,Jawa Barat (Bandung),1513,70.49,Normal
+2026-04-04,Jawa Barat (Bandung),1525,68.57,Normal
+2026-04-05,Jawa Barat (Bandung),1484,71.12,Normal
+2026-04-06,Jawa Barat (Bandung),1478,69.56,Normal
+2026-04-07,Jawa Barat (Bandung),1497,68.49,Normal
+2026-04-08,Jawa Barat (Bandung),1484,70.67,Normal
+2026-04-09,Jawa Barat (Bandung),1481,69.05,Normal
+2026-04-10,Jawa Barat (Bandung),1478,68.56,Normal
+2026-04-11,Jawa Barat (Bandung),1472,72.16,Normal
+2026-04-12,Jawa Barat (Bandung),1459,73.07,Normal
+2026-04-13,Jawa Barat (Bandung),1470,67.52,Normal
+2026-04-14,Jawa Barat (Bandung),1466,67.43,Normal
+2026-04-15,Jawa Barat (Bandung),1459,70.26,Normal
+2026-04-16,Jawa Barat (Bandung),1470,67.84,Normal
+2026-04-17,Jawa Barat (Bandung),1447,69.74,Normal
+2026-04-18,Jawa Barat (Bandung),1445,68.4,Normal
+2026-04-19,Jawa Barat (Bandung),1455,68.33,Normal
+2026-04-20,Jawa Barat (Bandung),1431,70.17,Normal
+2026-04-21,Jawa Barat (Bandung),1455,68.35,Normal
+2026-04-22,Jawa Barat (Bandung),1447,67.66,Normal
+2026-04-23,Jawa Barat (Bandung),1468,64.48,Normal
+2026-04-24,Jawa Barat (Bandung),1456,66.88,Normal
+2026-04-25,Jawa Barat (Bandung),1470,66.65,Normal
+2026-04-26,Jawa Barat (Bandung),1452,63.99,Normal
+2026-04-27,Jawa Barat (Bandung),1476,65.71,Normal
+2026-04-28,Jawa Barat (Bandung),1465,63.96,Normal
+2026-04-29,Jawa Barat (Bandung),1461,64.41,Normal
+2026-04-30,Jawa Barat (Bandung),1458,61.44,Normal
+2026-05-01,Jawa Barat (Bandung),1455,63.83,Normal
+2026-05-02,Jawa Barat (Bandung),1492,67.2,Normal
+2026-05-03,Jawa Barat (Bandung),1483,65.91,Normal
+2026-05-04,Jawa Barat (Bandung),1484,64.11,Normal
+2026-05-05,Jawa Barat (Bandung),1507,65.09,Normal
+2026-05-06,Jawa Barat (Bandung),1509,60.73,Normal
+2026-05-07,Jawa Barat (Bandung),1486,60.31,Normal
+2026-05-08,Jawa Barat (Bandung),1507,62.97,Normal
+2026-05-09,Jawa Barat (Bandung),1511,61.17,Normal
+2026-05-10,Jawa Barat (Bandung),1499,60.67,Normal
+2026-05-11,Jawa Barat (Bandung),1530,60.48,Normal
+2026-05-12,Jawa Barat (Bandung),1535,59.85,Normal
+2026-05-13,Jawa Barat (Bandung),1532,57.19,Normal
+2026-05-14,Jawa Barat (Bandung),1548,61.79,Normal
+2026-05-15,Jawa Barat (Bandung),1540,60.23,Normal
+2026-05-16,Jawa Barat (Bandung),1547,59.08,Normal
+2026-05-17,Jawa Barat (Bandung),1532,60.67,Normal
+2026-05-18,Jawa Barat (Bandung),1554,60.62,Normal
+2026-05-19,Jawa Barat (Bandung),1564,60.92,Normal
+2026-05-20,Jawa Barat (Bandung),1542,60.37,Normal
+2026-05-21,Jawa Barat (Bandung),1539,57.52,Normal
+2026-05-22,Jawa Barat (Bandung),1533,60.82,Normal
+2026-05-23,Jawa Barat (Bandung),1534,60.97,Normal
+2026-05-24,Jawa Barat (Bandung),1540,58.81,Normal
+2026-05-25,Jawa Barat (Bandung),1528,57.79,Normal
+2026-05-26,Jawa Barat (Bandung),1562,61.34,Normal
+2026-05-27,Jawa Barat (Bandung),1534,59.94,Normal
+2026-05-28,Jawa Barat (Bandung),1524,61.06,Normal
+2026-05-29,Jawa Barat (Bandung),1551,59.36,Normal
+2026-05-30,Jawa Barat (Bandung),1520,57.42,Normal
+2026-05-31,Jawa Barat (Bandung),1534,58.7,Normal
+2026-06-01,Jawa Barat (Bandung),1547,61.34,Normal
+2026-06-02,Jawa Barat (Bandung),1505,64.79,Normal
+2026-06-03,Jawa Barat (Bandung),1533,60.52,Normal
+2026-06-04,Jawa Barat (Bandung),1524,60.83,Normal
+2026-06-05,Jawa Barat (Bandung),1500,64.18,Normal
+2026-06-06,Jawa Barat (Bandung),1493,61.43,Normal
+2026-06-07,Jawa Barat (Bandung),1480,60.61,Normal
+2026-06-08,Jawa Barat (Bandung),1514,63.64,Normal
+2026-06-09,Jawa Barat (Bandung),1506,63.82,Normal
+2026-06-10,Jawa Barat (Bandung),1478,64.16,Normal
+2026-06-11,Jawa Barat (Bandung),1496,64.42,Normal
+2026-06-12,Jawa Barat (Bandung),1460,65.01,Normal
+2026-06-13,Jawa Barat (Bandung),1455,62.42,Normal
+2026-06-14,Jawa Barat (Bandung),1472,64.28,Normal
+2026-06-15,Jawa Barat (Bandung),1483,66.44,Normal
+2026-06-16,Jawa Barat (Bandung),1448,62.3,Normal
+2026-06-17,Jawa Barat (Bandung),1475,64.17,Normal
+2026-06-18,Jawa Barat (Bandung),1467,66.04,Normal
+2026-06-19,Jawa Barat (Bandung),1457,68.85,Normal
+2026-06-20,Jawa Barat (Bandung),1447,66.3,Normal
+2026-06-21,Jawa Barat (Bandung),1443,68.2,Normal
+2026-06-22,Jawa Barat (Bandung),1469,67.63,Normal
+2026-06-23,Jawa Barat (Bandung),1435,65.27,Normal
+2026-06-24,Jawa Barat (Bandung),1435,69.66,Normal
+2026-06-25,Jawa Barat (Bandung),1445,66.79,Normal
+2026-06-26,Jawa Barat (Bandung),1460,70.92,Normal
+2026-06-27,Jawa Barat (Bandung),1460,68.55,Normal
+2026-06-28,Jawa Barat (Bandung),1471,70.28,Normal
+2026-06-29,Jawa Barat (Bandung),1471,70.11,Normal
+2026-01-01,Banten (Serpong),883,37.26,Normal
+2026-01-02,Banten (Serpong),893,35.59,Normal
+2026-01-03,Banten (Serpong),921,35.09,Normal
+2026-01-04,Banten (Serpong),929,33.48,Normal
+2026-01-05,Banten (Serpong),922,34.91,Normal
+2026-01-06,Banten (Serpong),910,38.48,Normal
+2026-01-07,Banten (Serpong),912,30.75,Normal
+2026-01-08,Banten (Serpong),913,33.89,Normal
+2026-01-09,Banten (Serpong),941,36.38,Normal
+2026-01-10,Banten (Serpong),954,35.64,Normal
+2026-01-11,Banten (Serpong),947,32.77,Normal
+2026-01-12,Banten (Serpong),934,31.85,Normal
+2026-01-13,Banten (Serpong),935,31.72,Normal
+2026-01-14,Banten (Serpong),950,32.22,Normal
+2026-01-15,Banten (Serpong),954,33.25,Normal
+2026-01-16,Banten (Serpong),953,36.67,Normal
+2026-01-17,Banten (Serpong),961,32.58,Normal
+2026-01-18,Banten (Serpong),932,33.21,Normal
+2026-01-19,Banten (Serpong),932,32.14,Normal
+2026-01-20,Banten (Serpong),954,32.16,Normal
+2026-01-21,Banten (Serpong),955,29.16,Normal
+2026-01-22,Banten (Serpong),951,33.68,Normal
+2026-01-23,Banten (Serpong),933,29.04,Normal
+2026-01-24,Banten (Serpong),937,30.0,Normal
+2026-01-25,Banten (Serpong),938,33.66,Normal
+2026-01-26,Banten (Serpong),929,30.31,Normal
+2026-01-27,Banten (Serpong),913,28.0,Normal
+2026-01-28,Banten (Serpong),926,29.86,Normal
+2026-01-29,Banten (Serpong),930,29.82,Normal
+2026-01-30,Banten (Serpong),901,24.75,Normal
+2026-01-31,Banten (Serpong),924,25.98,Normal
+2026-02-01,Banten (Serpong),915,25.68,Normal
+2026-02-02,Banten (Serpong),903,25.08,Normal
+2026-02-03,Banten (Serpong),895,26.67,Normal
+2026-02-04,Banten (Serpong),891,22.75,Normal
+2026-02-05,Banten (Serpong),885,26.46,Normal
+2026-02-06,Banten (Serpong),889,27.93,Normal
+2026-02-07,Banten (Serpong),874,23.33,Normal
+2026-02-08,Banten (Serpong),874,25.49,Normal
+2026-02-09,Banten (Serpong),872,24.06,Normal
+2026-02-10,Banten (Serpong),881,29.41,Normal
+2026-02-11,Banten (Serpong),851,25.5,Normal
+2026-02-12,Banten (Serpong),865,24.12,Normal
+2026-02-13,Banten (Serpong),852,26.2,Normal
+2026-02-14,Banten (Serpong),863,28.49,Normal
+2026-02-15,Banten (Serpong),859,24.19,Normal
+2026-02-16,Banten (Serpong),859,25.47,Normal
+2026-02-17,Banten (Serpong),830,26.75,Normal
+2026-02-18,Banten (Serpong),843,25.36,Normal
+2026-02-19,Banten (Serpong),857,27.77,Normal
+2026-02-20,Banten (Serpong),861,23.33,Normal
+2026-02-21,Banten (Serpong),833,25.47,Normal
+2026-02-22,Banten (Serpong),842,23.15,Normal
+2026-02-23,Banten (Serpong),871,24.21,Normal
+2026-02-24,Banten (Serpong),873,26.92,Normal
+2026-02-25,Banten (Serpong),844,27.58,Normal
+2026-02-26,Banten (Serpong),850,26.93,Normal
+2026-02-27,Banten (Serpong),859,24.35,Normal
+2026-02-28,Banten (Serpong),892,27.01,Normal
+2026-03-01,Banten (Serpong),868,24.91,Normal
+2026-03-02,Banten (Serpong),899,28.61,Normal
+2026-03-03,Banten (Serpong),885,27.62,Normal
+2026-03-04,Banten (Serpong),878,24.72,Normal
+2026-03-05,Banten (Serpong),897,26.2,Normal
+2026-03-06,Banten (Serpong),891,29.89,Normal
+2026-03-07,Banten (Serpong),910,29.3,Normal
+2026-03-08,Banten (Serpong),913,30.51,Normal
+2026-03-09,Banten (Serpong),900,30.22,Normal
+2026-03-10,Banten (Serpong),908,27.25,Normal
+2026-03-11,Banten (Serpong),909,28.21,Normal
+2026-03-12,Banten (Serpong),914,27.44,Normal
+2026-03-13,Banten (Serpong),920,31.01,Normal
+2026-03-14,Banten (Serpong),955,32.31,Normal
+2026-03-15,Banten (Serpong),955,27.51,Normal
+2026-03-16,Banten (Serpong),958,32.55,Normal
+2026-03-17,Banten (Serpong),957,31.37,Normal
+2026-03-18,Banten (Serpong),944,35.15,Normal
+2026-03-19,Banten (Serpong),937,27.87,Normal
+2026-03-20,Banten (Serpong),968,31.15,Normal
+2026-03-21,Banten (Serpong),937,35.06,Normal
+2026-03-22,Banten (Serpong),950,30.98,Normal
+2026-03-23,Banten (Serpong),950,33.32,Normal
+2026-03-24,Banten (Serpong),963,33.72,Normal
+2026-03-25,Banten (Serpong),962,32.19,Normal
+2026-03-26,Banten (Serpong),955,36.89,Normal
+2026-03-27,Banten (Serpong),930,35.16,Normal
+2026-03-28,Banten (Serpong),938,32.91,Normal
+2026-03-29,Banten (Serpong),939,33.06,Normal
+2026-03-30,Banten (Serpong),948,35.64,Normal
+2026-03-31,Banten (Serpong),911,32.7,Normal
+2026-04-01,Banten (Serpong),909,34.56,Normal
+2026-04-02,Banten (Serpong),922,36.09,Normal
+2026-04-03,Banten (Serpong),892,35.72,Normal
+2026-04-04,Banten (Serpong),921,33.89,Normal
+2026-04-05,Banten (Serpong),906,36.24,Normal
+2026-04-06,Banten (Serpong),914,34.81,Normal
+2026-04-07,Banten (Serpong),910,33.54,Normal
+2026-04-08,Banten (Serpong),889,38.86,Normal
+2026-04-09,Banten (Serpong),882,33.56,Normal
+2026-04-10,Banten (Serpong),892,35.8,Normal
+2026-04-11,Banten (Serpong),871,35.06,Normal
+2026-04-12,Banten (Serpong),864,34.08,Normal
+2026-04-13,Banten (Serpong),878,33.63,Normal
+2026-04-14,Banten (Serpong),849,37.62,Normal
+2026-04-15,Banten (Serpong),846,32.41,Normal
+2026-04-16,Banten (Serpong),875,31.1,Normal
+2026-04-17,Banten (Serpong),857,34.6,Normal
+2026-04-18,Banten (Serpong),868,32.46,Normal
+2026-04-19,Banten (Serpong),859,34.52,Normal
+2026-04-20,Banten (Serpong),846,31.88,Normal
+2026-04-21,Banten (Serpong),839,32.81,Normal
+2026-04-22,Banten (Serpong),841,35.11,Normal
+2026-04-23,Banten (Serpong),846,32.46,Normal
+2026-04-24,Banten (Serpong),852,32.49,Normal
+2026-04-25,Banten (Serpong),850,33.19,Normal
+2026-04-26,Banten (Serpong),841,32.52,Normal
+2026-04-27,Banten (Serpong),845,30.5,Normal
+2026-04-28,Banten (Serpong),855,27.78,Normal
+2026-04-29,Banten (Serpong),870,30.15,Normal
+2026-04-30,Banten (Serpong),880,29.03,Normal
+2026-05-01,Banten (Serpong),862,27.4,Normal
+2026-05-02,Banten (Serpong),863,32.85,Normal
+2026-05-03,Banten (Serpong),875,29.16,Normal
+2026-05-04,Banten (Serpong),873,27.42,Normal
+2026-05-05,Banten (Serpong),893,28.98,Normal
+2026-05-06,Banten (Serpong),914,28.88,Normal
+2026-05-07,Banten (Serpong),915,28.81,Normal
+2026-05-08,Banten (Serpong),902,26.35,Normal
+2026-05-09,Banten (Serpong),904,24.75,Normal
+2026-05-10,Banten (Serpong),929,27.36,Normal
+2026-05-11,Banten (Serpong),903,24.81,Normal
+2026-05-12,Banten (Serpong),927,28.07,Normal
+2026-05-13,Banten (Serpong),947,26.56,Normal
+2026-05-14,Banten (Serpong),941,22.86,Normal
+2026-05-15,Banten (Serpong),938,27.14,Normal
+2026-05-16,Banten (Serpong),935,23.22,Normal
+2026-05-17,Banten (Serpong),923,26.39,Normal
+2026-05-18,Banten (Serpong),959,25.28,Normal
+2026-05-19,Banten (Serpong),965,29.02,Normal
+2026-05-20,Banten (Serpong),937,24.09,Normal
+2026-05-21,Banten (Serpong),958,22.5,Normal
+2026-05-22,Banten (Serpong),933,22.36,Normal
+2026-05-23,Banten (Serpong),929,24.37,Normal
+2026-05-24,Banten (Serpong),942,24.61,Normal
+2026-05-25,Banten (Serpong),957,25.76,Normal
+2026-05-26,Banten (Serpong),962,26.26,Normal
+2026-05-27,Banten (Serpong),948,25.93,Normal
+2026-05-28,Banten (Serpong),936,24.97,Normal
+2026-05-29,Banten (Serpong),927,25.11,Normal
+2026-05-30,Banten (Serpong),919,24.31,Normal
+2026-05-31,Banten (Serpong),923,26.65,Normal
+2026-06-01,Banten (Serpong),946,23.7,Normal
+2026-06-02,Banten (Serpong),927,29.67,Normal
+2026-06-03,Banten (Serpong),923,25.43,Normal
+2026-06-04,Banten (Serpong),901,26.92,Normal
+2026-06-05,Banten (Serpong),899,27.66,Normal
+2026-06-06,Banten (Serpong),918,26.57,Normal
+2026-06-07,Banten (Serpong),882,27.32,Normal
+2026-06-08,Banten (Serpong),880,28.54,Normal
+2026-06-09,Banten (Serpong),892,29.86,Normal
+2026-06-10,Banten (Serpong),873,27.82,Normal
+2026-06-11,Banten (Serpong),877,26.94,Normal
+2026-06-12,Banten (Serpong),872,29.54,Normal
+2026-06-13,Banten (Serpong),889,28.79,Normal
+2026-06-14,Banten (Serpong),860,29.99,Normal
+2026-06-15,Banten (Serpong),852,27.75,Normal
+2026-06-16,Banten (Serpong),844,29.09,Normal
+2026-06-17,Banten (Serpong),840,30.93,Normal
+2026-06-18,Banten (Serpong),862,30.11,Normal
+2026-06-19,Banten (Serpong),866,31.29,Normal
+2026-06-20,Banten (Serpong),842,31.55,Normal
+2026-06-21,Banten (Serpong),854,31.69,Normal
+2026-06-22,Banten (Serpong),834,30.91,Normal
+2026-06-23,Banten (Serpong),844,34.02,Normal
+2026-06-24,Banten (Serpong),867,34.17,Normal
+2026-06-25,Banten (Serpong),856,31.68,Normal
+2026-06-26,Banten (Serpong),849,32.59,Normal
+2026-06-27,Banten (Serpong),850,33.94,Normal
+2026-06-28,Banten (Serpong),875,33.89,Normal
+2026-06-29,Banten (Serpong),841,35.58,Normal
+2026-01-01,Kalimantan Timur,2119,26.02,Normal
+2026-01-02,Kalimantan Timur,2116,27.76,Normal
+2026-01-03,Kalimantan Timur,2094,26.61,Normal
+2026-01-04,Kalimantan Timur,2121,25.0,Normal
+2026-01-05,Kalimantan Timur,2131,24.42,Normal
+2026-01-06,Kalimantan Timur,2115,24.32,Normal
+2026-01-07,Kalimantan Timur,2132,23.21,Normal
+2026-01-08,Kalimantan Timur,2116,25.36,Normal
+2026-01-09,Kalimantan Timur,2145,24.05,Normal
+2026-01-10,Kalimantan Timur,2148,24.35,Normal
+2026-01-11,Kalimantan Timur,2160,24.48,Normal
+2026-01-12,Kalimantan Timur,2137,23.12,Normal
+2026-01-13,Kalimantan Timur,2138,23.14,Normal
+2026-01-14,Kalimantan Timur,2159,23.24,Normal
+2026-01-15,Kalimantan Timur,2141,23.26,Normal
+2026-01-16,Kalimantan Timur,2145,22.77,Normal
+2026-01-17,Kalimantan Timur,2168,23.55,Normal
+2026-01-18,Kalimantan Timur,2152,20.09,Normal
+2026-01-19,Kalimantan Timur,2162,21.23,Normal
+2026-01-20,Kalimantan Timur,2133,20.49,Normal
+2026-01-21,Kalimantan Timur,2134,22.96,Normal
+2026-01-22,Kalimantan Timur,2150,20.5,Normal
+2026-01-23,Kalimantan Timur,2134,20.78,Normal
+2026-01-24,Kalimantan Timur,2120,20.8,Normal
+2026-01-25,Kalimantan Timur,2139,20.59,Normal
+2026-01-26,Kalimantan Timur,2125,18.62,Normal
+2026-01-27,Kalimantan Timur,2114,18.15,Normal
+2026-01-28,Kalimantan Timur,2118,18.8,Normal
+2026-01-29,Kalimantan Timur,2109,17.7,Normal
+2026-01-30,Kalimantan Timur,2102,18.79,Normal
+2026-01-31,Kalimantan Timur,2093,19.62,Normal
+2026-02-01,Kalimantan Timur,2092,16.94,Normal
+2026-02-02,Kalimantan Timur,2099,14.78,Normal
+2026-02-03,Kalimantan Timur,2100,16.45,Normal
+2026-02-04,Kalimantan Timur,2070,14.62,Normal
+2026-02-05,Kalimantan Timur,2100,13.25,Normal
+2026-02-06,Kalimantan Timur,2071,17.29,Normal
+2026-02-07,Kalimantan Timur,2084,17.58,Normal
+2026-02-08,Kalimantan Timur,2050,14.81,Normal
+2026-02-09,Kalimantan Timur,2055,16.81,Normal
+2026-02-10,Kalimantan Timur,2068,12.78,Normal
+2026-02-11,Kalimantan Timur,2076,14.56,Normal
+2026-02-12,Kalimantan Timur,2050,14.12,Normal
+2026-02-13,Kalimantan Timur,2058,16.15,Normal
+2026-02-14,Kalimantan Timur,2055,16.53,Normal
+2026-02-15,Kalimantan Timur,2046,14.54,Normal
+2026-02-16,Kalimantan Timur,2056,15.53,Normal
+2026-02-17,Kalimantan Timur,2044,15.69,Normal
+2026-02-18,Kalimantan Timur,2056,15.7,Normal
+2026-02-19,Kalimantan Timur,2032,15.95,Normal
+2026-02-20,Kalimantan Timur,2060,15.39,Normal
+2026-02-21,Kalimantan Timur,2047,16.23,Normal
+2026-02-22,Kalimantan Timur,2059,13.12,Normal
+2026-02-23,Kalimantan Timur,2046,16.29,Normal
+2026-02-24,Kalimantan Timur,2078,14.66,Normal
+2026-02-25,Kalimantan Timur,2065,14.98,Normal
+2026-02-26,Kalimantan Timur,2049,14.9,Normal
+2026-02-27,Kalimantan Timur,2064,17.54,Normal
+2026-02-28,Kalimantan Timur,2072,15.58,Normal
+2026-03-01,Kalimantan Timur,2091,12.85,Normal
+2026-03-02,Kalimantan Timur,2103,18.27,Normal
+2026-03-03,Kalimantan Timur,2102,15.35,Normal
+2026-03-04,Kalimantan Timur,2112,17.65,Normal
+2026-03-05,Kalimantan Timur,2103,18.25,Normal
+2026-03-06,Kalimantan Timur,2101,18.09,Normal
+2026-03-07,Kalimantan Timur,2104,16.78,Normal
+2026-03-08,Kalimantan Timur,2110,16.25,Normal
+2026-03-09,Kalimantan Timur,2132,18.65,Normal
+2026-03-10,Kalimantan Timur,2113,19.2,Normal
+2026-03-11,Kalimantan Timur,2120,18.27,Normal
+2026-03-12,Kalimantan Timur,2141,18.27,Normal
+2026-03-13,Kalimantan Timur,2154,19.68,Normal
+2026-03-14,Kalimantan Timur,2144,21.92,Normal
+2026-03-15,Kalimantan Timur,2155,21.7,Normal
+2026-03-16,Kalimantan Timur,2163,23.19,Normal
+2026-03-17,Kalimantan Timur,2131,22.81,Normal
+2026-03-18,Kalimantan Timur,2136,24.45,Normal
+2026-03-19,Kalimantan Timur,2136,22.58,Normal
+2026-03-20,Kalimantan Timur,2136,23.69,Normal
+2026-03-21,Kalimantan Timur,2135,23.58,Normal
+2026-03-22,Kalimantan Timur,2139,23.08,Normal
+2026-03-23,Kalimantan Timur,2149,24.6,Normal
+2026-03-24,Kalimantan Timur,2152,22.55,Normal
+2026-03-25,Kalimantan Timur,2138,23.62,Normal
+2026-03-26,Kalimantan Timur,2132,24.85,Normal
+2026-03-27,Kalimantan Timur,2130,26.43,Normal
+2026-03-28,Kalimantan Timur,2128,27.82,Normal
+2026-03-29,Kalimantan Timur,2131,23.79,Normal
+2026-03-30,Kalimantan Timur,2144,25.43,Normal
+2026-03-31,Kalimantan Timur,2136,25.26,Normal
+2026-04-01,Kalimantan Timur,2117,25.56,Normal
+2026-04-02,Kalimantan Timur,2097,21.89,Normal
+2026-04-03,Kalimantan Timur,2118,25.86,Normal
+2026-04-04,Kalimantan Timur,2114,23.45,Normal
+2026-04-05,Kalimantan Timur,2095,24.61,Normal
+2026-04-06,Kalimantan Timur,2105,22.49,Normal
+2026-04-07,Kalimantan Timur,2091,26.37,Normal
+2026-04-08,Kalimantan Timur,2085,26.23,Normal
+2026-04-09,Kalimantan Timur,2097,23.01,Normal
+2026-04-10,Kalimantan Timur,2076,22.55,Normal
+2026-04-11,Kalimantan Timur,2075,26.07,Normal
+2026-04-12,Kalimantan Timur,2083,28.92,Normal
+2026-04-13,Kalimantan Timur,2078,25.97,Normal
+2026-04-14,Kalimantan Timur,2074,24.11,Normal
+2026-04-15,Kalimantan Timur,2073,21.53,Normal
+2026-04-16,Kalimantan Timur,2047,22.91,Normal
+2026-04-17,Kalimantan Timur,2035,25.76,Normal
+2026-04-18,Kalimantan Timur,2046,25.37,Normal
+2026-04-19,Kalimantan Timur,2062,23.64,Normal
+2026-04-20,Kalimantan Timur,2059,21.74,Normal
+2026-04-21,Kalimantan Timur,2052,20.41,Normal
+2026-04-22,Kalimantan Timur,2031,24.36,Normal
+2026-04-23,Kalimantan Timur,2067,21.85,Normal
+2026-04-24,Kalimantan Timur,2045,23.34,Normal
+2026-04-25,Kalimantan Timur,2072,22.98,Normal
+2026-04-26,Kalimantan Timur,2041,18.32,Normal
+2026-04-27,Kalimantan Timur,2054,21.16,Normal
+2026-04-28,Kalimantan Timur,2042,20.14,Normal
+2026-04-29,Kalimantan Timur,2079,17.99,Normal
+2026-04-30,Kalimantan Timur,2088,21.34,Normal
+2026-05-01,Kalimantan Timur,2064,16.94,Normal
+2026-05-02,Kalimantan Timur,2059,18.54,Normal
+2026-05-03,Kalimantan Timur,2075,17.73,Normal
+2026-05-04,Kalimantan Timur,2077,15.38,Normal
+2026-05-05,Kalimantan Timur,2100,17.75,Normal
+2026-05-06,Kalimantan Timur,2083,15.98,Normal
+2026-05-07,Kalimantan Timur,2092,16.15,Normal
+2026-05-08,Kalimantan Timur,2105,17.91,Normal
+2026-05-09,Kalimantan Timur,2118,16.38,Normal
+2026-05-10,Kalimantan Timur,2123,19.72,Normal
+2026-05-11,Kalimantan Timur,2115,18.75,Normal
+2026-05-12,Kalimantan Timur,2124,19.61,Normal
+2026-05-13,Kalimantan Timur,2122,16.02,Normal
+2026-05-14,Kalimantan Timur,2132,14.73,Normal
+2026-05-15,Kalimantan Timur,2142,16.69,Normal
+2026-05-16,Kalimantan Timur,2124,15.32,Normal
+2026-05-17,Kalimantan Timur,2154,14.43,Normal
+2026-05-18,Kalimantan Timur,2144,15.22,Normal
+2026-05-19,Kalimantan Timur,2150,12.81,Normal
+2026-05-20,Kalimantan Timur,2150,15.82,Normal
+2026-05-21,Kalimantan Timur,2166,16.68,Normal
+2026-05-22,Kalimantan Timur,2136,13.44,Normal
+2026-05-23,Kalimantan Timur,2149,15.42,Normal
+2026-05-24,Kalimantan Timur,2160,14.05,Normal
+2026-05-25,Kalimantan Timur,2165,14.79,Normal
+2026-05-26,Kalimantan Timur,2159,15.47,Normal
+2026-05-27,Kalimantan Timur,2124,15.19,Normal
+2026-05-28,Kalimantan Timur,2138,18.35,Normal
+2026-05-29,Kalimantan Timur,2144,15.78,Normal
+2026-05-30,Kalimantan Timur,2127,17.21,Normal
+2026-05-31,Kalimantan Timur,2138,16.1,Normal
+2026-06-01,Kalimantan Timur,2140,16.67,Normal
+2026-06-02,Kalimantan Timur,2104,17.16,Normal
+2026-06-03,Kalimantan Timur,2103,14.71,Normal
+2026-06-04,Kalimantan Timur,2120,15.18,Normal
+2026-06-05,Kalimantan Timur,2095,16.27,Normal
+2026-06-06,Kalimantan Timur,2093,16.69,Normal
+2026-06-07,Kalimantan Timur,2110,17.79,Normal
+2026-06-08,Kalimantan Timur,2085,17.4,Normal
+2026-06-09,Kalimantan Timur,2073,19.52,Normal
+2026-06-10,Kalimantan Timur,2102,19.74,Normal
+2026-06-11,Kalimantan Timur,2072,18.5,Normal
+2026-06-12,Kalimantan Timur,2078,20.96,Normal
+2026-06-13,Kalimantan Timur,2075,18.97,Normal
+2026-06-14,Kalimantan Timur,2054,17.77,Normal
+2026-06-15,Kalimantan Timur,2064,17.56,Normal
+2026-06-16,Kalimantan Timur,2059,18.87,Normal
+2026-06-17,Kalimantan Timur,2069,17.46,Normal
+2026-06-18,Kalimantan Timur,2069,23.48,Normal
+2026-06-19,Kalimantan Timur,2042,22.85,Normal
+2026-06-20,Kalimantan Timur,2032,18.28,Normal
+2026-06-21,Kalimantan Timur,2055,20.94,Normal
+2026-06-22,Kalimantan Timur,2037,18.52,Normal
+2026-06-23,Kalimantan Timur,2058,26.0,Normal
+2026-06-24,Kalimantan Timur,2055,20.4,Normal
+2026-06-25,Kalimantan Timur,2066,23.37,Normal
+2026-06-26,Kalimantan Timur,2046,24.9,Normal
+2026-06-27,Kalimantan Timur,2054,20.32,Normal
+2026-06-28,Kalimantan Timur,2058,25.2,Normal
+2026-06-29,Kalimantan Timur,2053,23.79,Normal
