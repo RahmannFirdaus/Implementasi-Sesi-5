@@ -1,8 +1,6 @@
 # 🌳 BRIN Environmental & Spatial Research Dashboard
 
 > **Studi Kasus Lengkap Implementasi IMK & Visualisasi Data**  
-> Berdasarkan materi pemaparan **Bapak Arafat Febrian Dirza**  
-> *(Chief of Research Group for HCI and Visualization, BRIN)*
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-red?logo=streamlit)](https://streamlit.io)
@@ -34,7 +32,7 @@ Dashboard ini dikembangkan sebagai **studi kasus praktikum** mata kuliah **Inter
 > Warna merah kontras `#E53935` digunakan khusus untuk menandai **Anomali Kritis**.  
 > Otak manusia memproses perbedaan warna sebelum pemrosesan kognitif teks aktif.
 
-### 2. Prinsip Gestalt — Enclosure & Proximity
+### 2. Prinsip Gestalt - Enclosure & Proximity
 > Kartu KPI dikelompokkan dengan border dan bayangan logis → menekan **Extrinsic Cognitive Load** mendekati nol.
 
 ### 3. Shneiderman's Visual Information Seeking Mantra
@@ -45,83 +43,13 @@ Dashboard ini dikembangkan sebagai **studi kasus praktikum** mata kuliah **Inter
 | **Detail on Demand** | Expander tabel data mentah + tombol ekspor CSV |
 
 ### 4. Maximizing Data-Ink Ratio (Tufte)
-> Template `plotly_dark` tanpa chartjunk — tidak ada efek 3D, grid tebal, atau dekorasi berlebihan.  
+> Template `plotly_dark` tanpa chartjunk - tidak ada efek 3D, grid tebal, atau dekorasi berlebihan.  
 > Setiap piksel warna menyampaikan informasi data nyata.
 
 ### 5. Nielsen Heuristics & POUR
-- ✅ **Visibility of System Status** — Loading indicator `st.cache_data`
-- ✅ **Error Prevention** — Validasi input tanggal & warning jika filter kosong
-- ✅ **Consistency & Standards** — Tata letak dan warna konsisten di seluruh halaman
-
----
-
-## 🗂️ Struktur Repositori
-
-```
-brin-spatial-dashboard/
-├── app.py                # Aplikasi utama dashboard interaktif Streamlit
-├── generate_data.py      # Script pembuat dataset simulasi riset BRIN
-├── data_riset_brin.csv   # Dataset sampel hasil simulasi (auto-generated)
-├── requirements.txt      # Daftar pustaka & dependensi Python
-└── README.md             # Dokumentasi proyek & panduan penggunaan
-```
-
----
-
-## 🚀 Panduan Instalasi & Menjalankan Aplikasi
-
-### Prasyarat
-- Python 3.9 atau lebih baru
-- pip (Python package manager)
-- Git
-
-### Langkah 1: Clone Repositori
-
-```bash
-git clone https://github.com/<username>/brin-spatial-dashboard.git
-cd brin-spatial-dashboard
-```
-
-### Langkah 2: Buat Virtual Environment (Direkomendasikan)
-
-```bash
-# Windows
-python -m venv venv
-venv\Scripts\activate
-
-# macOS / Linux
-python3 -m venv venv
-source venv/bin/activate
-```
-
-### Langkah 3: Install Dependensi
-
-```bash
-pip install -r requirements.txt
-```
-
-### Langkah 4: Generate Dataset Simulasi
-
-```bash
-python generate_data.py
-```
-
-Output yang diharapkan:
-```
-✅ Dataset berhasil dibuat: data_riset_brin.csv
-   Total baris data : 720
-   Wilayah tercakup : 4
-   Rentang tanggal  : 2026-01-01 — 2026-06-29
-   Total anomali    : 6
-```
-
-### Langkah 5: Jalankan Dashboard
-
-```bash
-streamlit run app.py
-```
-
-Buka browser di: **http://localhost:8501**
+- ✅ **Visibility of System Status** - Loading indicator `st.cache_data`
+- ✅ **Error Prevention** - Validasi input tanggal & warning jika filter kosong
+- ✅ **Consistency & Standards** - Tata letak dan warna konsisten di seluruh halaman
 
 ---
 
@@ -137,70 +65,6 @@ Buka browser di: **http://localhost:8501**
 | **Sidebar Filter** | Filter wilayah, tanggal, dan status interaktif | Zoom & Filter |
 | **Data Table + Export** | Rincian data mentah + ekspor CSV | Detail on Demand |
 | **Anomali Badge** | Animasi pulsing merah jika ada anomali kritis | Pre-attentive (Animation) |
-
----
-
-## 📤 Panduan Upload ke GitHub
-
-### Persiapan Awal (Sekali Saja)
-
-```bash
-# Konfigurasi identitas Git
-git config --global user.name "Nama Anda"
-git config --global user.email "email@anda.com"
-```
-
-### Langkah Upload
-
-```bash
-# 1. Inisialisasi repositori Git lokal
-git init
-
-# 2. Tambahkan semua file ke staging
-git add .
-
-# 3. Commit pertama
-git commit -m "feat: Initial commit — BRIN Environmental Dashboard
-
-Implementasi lengkap studi kasus IMK & Visualisasi Data:
-- Pre-attentive Color Coding untuk anomali kritis
-- Shneiderman's Visual Information Seeking Mantra
-- Gestalt Enclosure & Proximity pada KPI cards
-- Maximizing Data-Ink Ratio (Plotly dark theme)
-- Nielsen Heuristics: error prevention & status visibility"
-
-# 4. Hubungkan ke remote repository GitHub
-git remote add origin https://github.com/<username>/brin-spatial-dashboard.git
-
-# 5. Push ke GitHub
-git branch -M main
-git push -u origin main
-```
-
-### File `.gitignore` yang Direkomendasikan
-
-```
-# Virtual environment
-venv/
-env/
-.venv/
-
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-
-# Streamlit cache
-.streamlit/
-
-# Dataset (opsional — generate ulang dengan script)
-# data_riset_brin.csv
-
-# IDE files
-.vscode/
-.idea/
-*.swp
-```
 
 ---
 
@@ -221,18 +85,5 @@ __pycache__/
 2. **Tufte, E.R.** (2001). *The Visual Display of Quantitative Information.* Graphics Press.
 3. **Nielsen, J.** (1994). *Usability Engineering.* Morgan Kaufmann.
 4. **Ware, C.** (2012). *Information Visualization: Perception for Design.* Morgan Kaufmann.
-5. **Treisman, A.** (1985). *Preattentive processing in vision.* Computer Vision, Graphics, and Image Processing, 31(2), 156–177.
+5. **Treisman, A.** (1985). *Preattentive processing in vision.* Computer Vision, Graphics, and Image Processing, 31(2), 156-177.
 
----
-
-## 👨‍💻 Informasi Pengembang
-
-**Dikembangkan untuk:**  
-Praktikum Mata Kuliah IMK & Visualisasi Data  
-Berdasarkan materi narasumber: **Bapak Arafat Febrian Dirza**  
-*(Chief of Research Group for HCI and Visualization, BRIN)*
-
----
-
-*Dashboard ini merupakan implementasi akademik untuk tujuan pembelajaran.*  
-*Data yang digunakan adalah simulasi sintetis — bukan data riset aktual BRIN.*
